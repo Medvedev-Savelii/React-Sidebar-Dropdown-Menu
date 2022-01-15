@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Sidebar-Dropdown-Menu/static/css/main.d6708536.css",
+    "main.js": "/React-Sidebar-Dropdown-Menu/static/js/main.5c6b306e.js",
+    "index.html": "/React-Sidebar-Dropdown-Menu/index.html",
+    "main.d6708536.css.map": "/React-Sidebar-Dropdown-Menu/static/css/main.d6708536.css.map",
+    "main.5c6b306e.js.map": "/React-Sidebar-Dropdown-Menu/static/js/main.5c6b306e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6708536.css",
+    "static/js/main.5c6b306e.js"
+  ]
+}
